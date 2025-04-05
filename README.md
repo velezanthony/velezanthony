@@ -72,10 +72,3 @@
   
 ## ⚡ Dato curioso:
 Me encanta aprender cosas nuevas constantemente y aplicar lo aprendido en proyectos reales, ¡siempre buscando el próximo reto!
-
----
-
-<!---
-velezanthony/velezanthony es un repositorio ✨especial✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
-Puedes hacer clic en el enlace de "Preview" para ver los cambios.
---->
