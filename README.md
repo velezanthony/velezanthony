@@ -7,16 +7,17 @@
 ## 🧰 Habilidades Técnicas
 
 ### Lenguajes y Frameworks:
-- **Backend:** `Python` (`Django`, `Flask`), `PHP` (`Laravel`), `C#` (`ASP.NET`), `Java` (`Android Studio`).
-- **Frontend:** `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Angular`, `Tailwind CSS`, `Alpine.js`.
+- **Backend:** `Python` (`Django`, `Flask`), `PHP` (`Laravel`), `C#` (`ASP.NET`).
+- **Frontend:** `HTML`, `CSS` (`Tailwind CSS`), `JavaScript` (`Vanilla JS`, `Alpine.js`), `TypeScript` (`Angular`).
+- **Mobile:** `Java` (`Android Studio`).
 - **Bases de Datos:** `MySQL`, `PostgreSQL`, `SQL Server`.
 - **DevOps & Infraestructura:** `AWS` (`EC2`, `Lambda`, `RDS`, `S3`), `Docker`, `Nginx`, `SSH`.
 - **Control de Versiones:** `Git`, `GitHub`.
 
 ### Sistemas y Redes:
 - **Administración de Sistemas:** Instalación y mantenimiento de hardware y software en entornos `Linux` y `Windows`.
-- **Gestión de Redes:** Configuración de redes locales (`LAN`), routers, switches, y servicios como `HTTP`, `FTP` y `Proxy`.
-- **Seguridad de Redes:** Implementación de `Firewalls`, `VPNs` y autenticación para proteger infraestructuras.
+- **Gestión de Redes:** Configuración de redes locales (`LAN`), `routers`, `switches` y servicios como `HTTP`, `FTP` y `proxy`.
+- **Seguridad de Redes:** Implementación de `firewalls`, `VPNs` y autenticación para proteger infraestructuras.
 - **Automatización:** Uso de scripts (`Bash`, `PowerShell`) para optimizar tareas de administración.
 
 ---
@@ -55,5 +56,5 @@
 - [LinkedIn](https://www.linkedin.com/in/anthony-velez-tapia/)
 
 ## 🌐 Mis enlaces útiles
-Aquí encontrarás algunos enlaces interesantes relacionados con mis proyectos, recursos, y más.
+Aquí encontrarás algunos enlaces interesantes relacionados con mis proyectos, recursos y más.
 - [Gist - velezanthony](https://gist.github.com/velezanthony/)  (Enlace a mis Gists donde comparto fragmentos de código, notas y más recursos.)
